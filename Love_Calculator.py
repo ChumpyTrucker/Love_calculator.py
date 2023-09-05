@@ -1,6 +1,6 @@
 print("Welcome to the love calculator \n")
 name1 = input("What is your name? \n")
-name2 = input( "What is their name?  \n")
+name2 = input( "What is their name? \n")
 
 pair_name = name1 + name2
 lower_pair_name = pair_name.lower()
