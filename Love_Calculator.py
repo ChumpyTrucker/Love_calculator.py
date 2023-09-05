@@ -24,7 +24,7 @@ love_formula = str(t1) + str(t2)
 score = int(love_formula)
 
 if score < 10 or score > 90:
-    print(f"Your score is {love_formula},  you go together like coke and mentos. ")
+    print(f"Your score is {love_formula},  you go together like coke and mentos.")
 elif score >= 40 and score <= 50:
     print(f"Your score is {score}, you are alright together. ")
 else:
